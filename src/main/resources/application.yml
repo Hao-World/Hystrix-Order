@@ -1,0 +1,5 @@
+server:
+  port: 8080
+  #线程池中的最大线程数为20
+  tomcat:
+    max-threads: 20
