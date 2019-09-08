@@ -1,2 +1,3 @@
-使用HyStrix实现服务的隔离与降级
+# Hystrix-Member
+HyStrix实现服务的隔离与降级 订单工程
 
